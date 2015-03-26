@@ -1,2 +1,2 @@
-# mindmapping-a-z
-Mind mapping A-Z
+# Mind mapping A-Z
+
